@@ -15,6 +15,7 @@
 /Users/patrik/Fakultet/Racunarstvo usluga i analiza podataka/LungCancerPrediction/LungCancerPrediction/obj/Debug/net8.0/LungCancerPrediction.MvcApplicationPartsAssemblyInfo.cache
 /Users/patrik/Fakultet/Racunarstvo usluga i analiza podataka/LungCancerPrediction/LungCancerPrediction/obj/Debug/net8.0/LungCancerPrediction.RazorAssemblyInfo.cache
 /Users/patrik/Fakultet/Racunarstvo usluga i analiza podataka/LungCancerPrediction/LungCancerPrediction/obj/Debug/net8.0/LungCancerPrediction.RazorAssemblyInfo.cs
+/Users/patrik/Fakultet/Racunarstvo usluga i analiza podataka/LungCancerPrediction/LungCancerPrediction/obj/Debug/net8.0/LungCancerPrediction.sourcelink.json
 /Users/patrik/Fakultet/Racunarstvo usluga i analiza podataka/LungCancerPrediction/LungCancerPrediction/obj/Debug/net8.0/staticwebassets.build.json
 /Users/patrik/Fakultet/Racunarstvo usluga i analiza podataka/LungCancerPrediction/LungCancerPrediction/obj/Debug/net8.0/staticwebassets.development.json
 /Users/patrik/Fakultet/Racunarstvo usluga i analiza podataka/LungCancerPrediction/LungCancerPrediction/obj/Debug/net8.0/staticwebassets/msbuild.LungCancerPrediction.Microsoft.AspNetCore.StaticWebAssets.props

@@ -132,5 +132,11 @@ namespace YourWebApp.Controllers
                 }
             }
         }
+
+        // New method to handle access to the Privacy page
+        public IActionResult Privacy()
+        {
+            return View();
+        }
     }
 }
